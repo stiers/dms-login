@@ -1,4 +1,3 @@
-Attribute VB_Name = "mdlFormControl"
 '*******************************************************
 '* FormControl Version 2.0
 '* Author: Richard L. McCutchen
@@ -8,7 +7,7 @@ Attribute VB_Name = "mdlFormControl"
 '* Module for resizing a form based on screen size
 '* then resizing the controls based on the forms size
 '*
-'* Copyright © 2007
+'* Copyright ï¿½ 2007
 '*******************************************************
 
 Private List() As Control
