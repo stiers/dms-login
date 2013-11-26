@@ -1,4 +1,3 @@
-Attribute VB_Name = "mdlGlobal"
 Option Explicit
 
 '*****************************************************************
@@ -10,7 +9,7 @@ Option Explicit
 '* Credits:
 '* - Michael Ciurescu (CVMichael from vbforums.com)
 '*
-'* Copyright © 2013 Guill-Bern Corporation. All rights reserved.
+'* Copyright ï¿½ 2013 Guill-Bern Corporation. All rights reserved.
 '*****************************************************************
 
 Public rsData As ADODB.Recordset
